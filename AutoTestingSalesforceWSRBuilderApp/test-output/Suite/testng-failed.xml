@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [Suite]">
+  <test parallel="none" name="Test User Story 3 Requirements(failed)">
+    <classes>
+      <class name="testNGtcs.UserStory3">
+        <methods>
+          <include name="run_US3_TC1"/>
+          <include name="b_logToAccountNaccesApp"/>
+          <include name="a_initializeBrowser"/>
+          <include name="loadGeneralTestData"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- testNGtcs.UserStory3 -->
+    </classes>
+  </test> <!-- Test User Story 3 Requirements(failed) -->
+</suite> <!-- Failed suite [Suite] -->
