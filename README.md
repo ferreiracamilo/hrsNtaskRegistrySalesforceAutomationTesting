@@ -9,16 +9,17 @@ Within folder "files_excel" (hrsNtaskRegistrySalesforceAutomationTesting/AutoTes
 1. Test data for forms
 
 In regards the tech stack used:
-1.Selenium
-2.TestNG
-3.Page Object Model
-4.Page Factory
-5.Maven
-6.Java
+1. Selenium
+2. TestNG
+3. Page Object Model
+4. Page Factory
+5. Maven
+6. Java
 
 Possibilities:
-5.It may be implemented in the near future cucumber
-6.It may be implemented logs, improvements in reporting and screenshot in the near future
+
+5. It may be implemented in the near future cucumber
+6. It may be implemented logs, improvements in reporting and screenshot in the near future
 
 Status:
 Still in progress (you may see some test cases still be developed in selenium), apart of that if you see enabled property in test cases feel free to erase was just for checking out individual executions.
