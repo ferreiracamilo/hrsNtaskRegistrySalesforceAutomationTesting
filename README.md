@@ -1,6 +1,6 @@
 Automation testing project for a salesforce app to register hours, task and email report options & info.
 
-Within folder "resources" (hrsNtaskRegistrySalesforceAutomationTesting/AutoTestingSalesforceWSRBuilderApp/resources/) you'll find
+Within folder [resources](https://github.com/ferreiracamilo/hrsNtaskRegistrySalesforceAutomationTesting/tree/master/AutoTestingSalesforceWSRBuilderApp/resources) you'll find
 1. User stories given to create test cases
 2. Test cases sheet
 3. Templates to store test data
