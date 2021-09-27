@@ -5,7 +5,7 @@ Within folder "resources" (hrsNtaskRegistrySalesforceAutomationTesting/AutoTesti
 2. Test cases sheet
 3. Templates to store test data
 
-Within folder "files_excel" <href="https://github.com/ferreiracamilo/hrsNtaskRegistrySalesforceAutomationTesting/tree/master/AutoTestingSalesforceWSRBuilderApp/files_excel">(hrsNtaskRegistrySalesforceAutomationTesting/AutoTestingSalesforceWSRBuilderApp/files_excel/)</a> you'll find
+Within folder "files_excel" [hrsNtaskRegistrySalesforceAutomationTesting/AutoTestingSalesforceWSRBuilderApp/files_excel/](https://github.com/ferreiracamilo/hrsNtaskRegistrySalesforceAutomationTesting/tree/master/AutoTestingSalesforceWSRBuilderApp/files_excel) you'll find
 1. Test data for forms
 
 In regards the tech stack used:
